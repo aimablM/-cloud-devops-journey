@@ -13,16 +13,16 @@ This repository is my **developer logbook**, tracking my progression from founda
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
-- ✅ Share real-world lessons learned while deploying fullstack cloud-native projects.
-- ✅ Provide step-by-step infrastructure breakdowns (with diagrams and screenshots).
-- ✅ Track how each project evolved from local dev to cloud deployment.
-- ✅ Show recruiters and collaborators my ability to think in systems and execute.
+- Share real-world lessons learned while deploying fullstack cloud-native projects.
+- Provide step-by-step infrastructure breakdowns (with diagrams and screenshots).
+- Track how each project evolved from local dev to cloud deployment.
+- Show recruiters and collaborators my ability to think in systems and execute.
 
 ---
 
-## 📂 Sections (coming or live)
+## Sections (coming or live)
 
 | Section | Description |
 |--------|-------------|
@@ -42,7 +42,7 @@ This repository is my **developer logbook**, tracking my progression from founda
 
 ---
 
-## 🚀 Why This Matters
+## Why This Matters
 
 I believe in **learning by doing** — and this repo captures that.  
 Every commit, config file, and write-up is a reflection of my deep dive into Cloud and DevOps engineering.
