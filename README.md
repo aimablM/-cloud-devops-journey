@@ -49,4 +49,4 @@ Every commit, config file, and write-up is a reflection of my deep dive into Clo
 
 ---
 
-📬 Let’s connect → [aimablem.dev](https://aimablem.dev) | [LinkedIn](https://linkedin.com/in/aimablemugwaneza)
+📬 Let’s connect → [aimablem.dev](https://aimablem.dev) | [LinkedIn](https://linkedin.com/in/aimablem)
